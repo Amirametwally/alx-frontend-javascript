@@ -11,6 +11,6 @@ export default function getFullBudgetObject(income, gdp, capita) {
       return `${income} euros`;
     },
   };
-  // console.log(fullBudget.getIncomeInDollars(fullBudget.income));
+
   return fullBudget;
 }
