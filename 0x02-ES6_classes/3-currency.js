@@ -14,6 +14,7 @@ export default class Currency {
     }
     this._code = code;
   }
+
   get code() {
     return this._code;
   }
