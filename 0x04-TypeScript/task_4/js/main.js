@@ -1,9 +1,9 @@
 "use strict";
-/// <reference path="subjects/Teacher.ts" />
-/// <reference path="subjects/Subject.ts" />
-/// <reference path="subjects/Cpp.ts" />
-/// <reference path="subjects/React.ts" />
-/// <reference path="subjects/Java.ts" />
+/// <reference path="Teacher.ts" />
+/// <reference path="Subject.ts" />
+/// <reference path="Cpp.ts" />
+/// <reference path="React.ts" />
+/// <reference path="Java.ts" />
 exports.__esModule = true;
 exports.cTeacher = exports.react = exports.java = exports.cpp = void 0;
 exports.cpp = new Subjects.Cpp();

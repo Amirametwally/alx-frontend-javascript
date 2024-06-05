@@ -29,6 +29,6 @@ var Subjects;
             return xp > 0 ? "Available Teacher: ".concat(this.teacher.firstName) : "No available teacher";
         };
         return Java;
-    }(Subject));
+    }(Subjects.Subject));
     Subjects.Java = Java;
 })(Subjects || (Subjects = {}));

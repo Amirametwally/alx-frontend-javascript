@@ -29,6 +29,6 @@ var Subjects;
             return xp > 0 ? "Available Teacher: ".concat(this.teacher.firstName) : "No available teacher";
         };
         return React;
-    }(Subject));
+    }(Subjects.Subject));
     Subjects.React = React;
 })(Subjects || (Subjects = {}));

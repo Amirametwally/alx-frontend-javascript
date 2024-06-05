@@ -34,6 +34,6 @@ var Subjects;
             }
         };
         return Cpp;
-    }(Subject));
+    }(Subjects.Subject));
     Subjects.Cpp = Cpp;
 })(Subjects || (Subjects = {}));
